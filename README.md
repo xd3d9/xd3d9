@@ -1,7 +1,7 @@
 <p align="center">
   Hello nerd<br>
 Check my amazing website https://zerosense.ga :0000 very good website 💯<br>
-  MMMM I HAVE GOOD REPOSITORIES CHECK THEM OUT ;)
+  MMMM I HAVE GOOD REPOSITORIES CHECK THEM OUT TOO ;)
   <br>
   <br>
 <img src="https://pays.host/uploads/c0d9ce1d-543f-4a2c-8602-d769ab3ff61e/Ym7wrT52.png?__cf_chl_captcha_tk__=e7d0a8efe9a89165491dbffc7d815fb9a0d7ab98-1615986672-0-ATbnP0gSzxf8QfxbO3kynqicWzAdqIKcHxvcTV9pxpnoFs5oMFQrt6K8q_7EbXK_Hru-7NzDHVJCJAo3-yDoYggP6MgR6_ZoFAExd2sYzyAnAaau0lNlJ3SfB7ftGTNbyFVlel37woSnwZl3LsxOzQfbzgOy0hNkDJ8jdeom-OdMaqiDHs0GRjZK5zPvo-qzZ46FYUWtamXCe50_c_Lc96_YW0auh_IYXL-3ZDlyanMwCmoHY_kWuyEEvsmoc8b4V7qQ06m232l8yO2jLRT5-crW59oSE6ihzhYPDkzH_isizvT1WZKlInTIYYXYm_iPHdWCvpEk6pW_Od1yTFKhSqwS9LX4A6fnSCuqZwt1lbuNFZe4PYDZJrJ5wIBvSTxLcgcDPBooBSBFOyWnT4chSiliMaO0N98X8uPAZz6s6ygpERhQZiDoO4sq2Dk60JkY_oxZ4K_D8DcnJVaSk2p1ycaqhBG566jLjALxS_ehecTFmOxVe443Vl223dlKTvEb-IrYZyfwVNQ7HNev_s5e_0KcZ84ioWEoexk8CloKaPRJvXaOy_-L4BAvJjR2FNBBF58IIPoLK4-oRsurkjDmp9BhhkYrVB9XMIBkMlMakKaOg46o9cS7eDBYk4z2JoPEbtThmVAOSRJm-l5n_U2lIrWOH2HAcE_Y25YSpsgXE1Nz>"
