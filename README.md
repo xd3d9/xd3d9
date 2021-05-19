@@ -1,6 +1,7 @@
 <html>
 <p align="center">
-  [![epix github stats](https://github-readme-stats.vercel.app/api?username=zerotwomodz)]
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroTwoModz">
+<br>
   Hello nerd<br>
   I'm helping nerds who cant code lmao ;)<br>
   Check my amazing website https://zerosense.ga <br>
