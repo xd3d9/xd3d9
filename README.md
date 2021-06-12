@@ -1,6 +1,6 @@
 <html>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroTwoModz">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroTwoModz&theme=dark)">
 <br>
   Hello nerd<br>
   I'm helping nerds who cant code lmao ;)<br>
