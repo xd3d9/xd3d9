@@ -5,7 +5,7 @@
 <br>
   Hello nerd<br>
   I'm helping nerds who cant code lmao ;)<br>
-  Check my amazing website https://zerosense.ga <br>
+  Check my amazing website https://www.zerosense.ga <br>
   :0000 very good website 💯<br>
   MMMM I HAVE GOOD REPOSITORIES CHECK THEM OUT TOO ;)
   <br>
