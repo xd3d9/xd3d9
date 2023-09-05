@@ -1,11 +1,5 @@
 <html>
 <p align="center">
-  <img src="https://cdn.upload.systems/uploads/QvPIPf6p.png"> <br><br>
-<br><br><br>
-  Welcome to my profile!
-  <br><br><br>
-<img src="https://cdn.upload.systems/uploads/tozM12DI.png">
-<br>
-<br>
+<img src="https://cdn.discordapp.com/attachments/872561369801711676/1148724385776156772/illuminate.png">
 </p>
 </html>
